@@ -1,6 +1,6 @@
 # syntaxhighlighter/brush-sql
 
-sql brush module for [SyntaxHighlighter](https://github.com/syntaxhighlighter).
+Generic SQL brush module for [SyntaxHighlighter](https://github.com/syntaxhighlighter).
 
 [![Build Status](https://travis-ci.org/alexgorbatchev/brush-sql.svg)](https://travis-ci.org/alexgorbatchev/brush-sql)
 
