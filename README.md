@@ -2,11 +2,11 @@
 
 Generic SQL brush module for [SyntaxHighlighter](https://github.com/syntaxhighlighter).
 
-[![Build Status](https://travis-ci.org/alexgorbatchev/brush-sql.svg)](https://travis-ci.org/alexgorbatchev/brush-sql)
+[![Build Status](https://travis-ci.org/syntaxhighlighter/brush-sql.svg)](https://travis-ci.org/syntaxhighlighter/brush-sql)
 
 ## Installation
 
-    npm install syntaxhighlighter/brush-sql
+    npm install @alexgorbatchev/brush-sql
 
 ## Testing
 
