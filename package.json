@@ -1,5 +1,5 @@
 {
-  "name": "brush-sql",
+  "name": "@alexgorbatchev/brush-sql",
   "version": "4.0.0",
   "description": "sql brush module for SyntaxHighlighter.",
   "keywords": [
