@@ -5,7 +5,7 @@
 ![Downloads](https://img.shields.io/npm/dm/brush-sql.svg)
 ![Version](https://img.shields.io/npm/v/brush-sql.svg)
 
-Generic SQL brush module for [SyntaxHighlighter](https://github.com/syntaxhighlighter/syntaxhighlighter).
+SQL brush module for [SyntaxHighlighter](https://github.com/syntaxhighlighter/syntaxhighlighter).
 
 ## Usage
 
